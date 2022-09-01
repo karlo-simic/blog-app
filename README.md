@@ -1,6 +1,10 @@
 # Blog app (RTK Query & TypeScript)
 
-CRUD React app that uses optimization features like normalized state and optimistic updates implemented with RTK query and TypeScript.
+CRUD app built with TypeScript & Redux, this project is focused on performance and optimization features in Redux.
+
+In this project I've used advanced Redux features like RTK query, normalized state and optimistic updates to build this blog app.
+
+In this [video](https://www.youtube.com/watch?v=O-975vmMRPQ) I showcase the app and each of these features.
 
 ### Technologies
 
